@@ -1,3 +1,5 @@
+# lenette77.github.io
+
 # 👋 Hi, I'm Lingyi Wang  
 🎓 **Computer Science & Economics @ UW–Madison** | PPE Certificate | L&S Comprehensive Honors  
 
