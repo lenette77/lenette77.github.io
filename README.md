@@ -26,7 +26,6 @@ Welcome to my GitHub! I’m passionate about the intersection of **technology, a
 ## 📂 Featured Projects  
 - 🧾 **Financial ChatBI Assistant (Cummins China)** – Integrated GPT-4o with SQL/Datalake queries to automate financial data insights.  
 - 🚗 **Remote Driving Simulation (Research)** – Developing and testing driving simulations for L4 automation studies.  
-- 💰 **Expense Manager App (in progress)** – A lightweight, privacy-preserving shared expense tracker with encrypted receipt uploads.  
 
 ---
 
